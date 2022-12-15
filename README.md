@@ -1,0 +1,2 @@
+# amalschool
+website page updation
